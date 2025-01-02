@@ -1046,7 +1046,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6177e96e-844a-47f7-95d3-fb19a31cd9b9")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 93.345 87.63 0)
 			(effects
 				(font
@@ -1127,7 +1127,7 @@
 		(instances
 			(project ""
 				(path "/eb036d61-982e-41fc-ad07-0dff52d6a1cc/1c35631a-56f2-41a3-8845-0858340bff1a"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1142,7 +1142,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d8ee791-7b06-4afb-a040-e9eee88a7c06")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 115.57 63.5 0)
 			(effects
 				(font
@@ -1208,7 +1208,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/eb036d61-982e-41fc-ad07-0dff52d6a1cc/1c35631a-56f2-41a3-8845-0858340bff1a"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
