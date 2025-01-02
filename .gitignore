@@ -1,3 +1,6 @@
 fp-info-cache
 MCU Datalogger-backups/*
 MCUDataloggerGerber/*
+*.lck
+..gitignore.un~
+.gitignore~
