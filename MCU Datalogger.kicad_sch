@@ -4401,6 +4401,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 127.635 140.97)
+		(size 32.385 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c35631a-56f2-41a3-8845-0858340bff1a")
+		(property "Sheetname" "Connectors"
+			(at 127.635 140.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 127.635 178.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MCU Datalogger"
+				(path "/eb036d61-982e-41fc-ad07-0dff52d6a1cc"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
