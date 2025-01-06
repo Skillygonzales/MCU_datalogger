@@ -1,6 +1,7 @@
 fp-info-cache
 MCU Datalogger-backups/*
-MCUDataloggerGerber/*
+2_layer_MCU_Datalogger_Gerbers/*
+4_layer_MCU_Datalogger_Gerbers/*
 *.lck
 ..gitignore.un~
 .gitignore~
