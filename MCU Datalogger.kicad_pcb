@@ -886,6 +886,17 @@
 			(solder_mask_margin 0.102)
 			(uuid "33ce4dd5-669c-4a1b-b9f3-45ce56f2d9e5")
 		)
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Footprints:QFP80P900X900X120-32N"
 		(layer "F.Cu")
@@ -1669,6 +1680,17 @@
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
 			(uuid "c24813cd-9c84-41f0-becd-564b580fdbda")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical"
@@ -3920,7 +3942,7 @@
 			(pintype "power_in")
 			(uuid "482bcb8b-d866-47c8-9c66-ad4eed28d846")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/Libraries/DS1337S_/DS1337S_.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3928,7 +3950,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -6108,7 +6130,7 @@
 			(pintype "power_in")
 			(uuid "90b3a2ef-77a9-442c-b319-a1ff1e241058")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/Libraries/DS1337S_/DS1337S_.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6116,7 +6138,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -6779,7 +6801,7 @@
 			(pintype "passive")
 			(uuid "de24cfc1-884b-4962-ba47-e4e9b06909a9")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7676,7 +7698,7 @@
 			(pintype "passive")
 			(uuid "50f770d6-fdb2-4556-ae21-3214132459ef")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
