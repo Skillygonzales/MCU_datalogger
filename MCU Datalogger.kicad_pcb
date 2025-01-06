@@ -9082,7 +9082,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "SCK"
+	(gr_text "SCL"
 		(at 196.469 111.252 90)
 		(layer "F.SilkS")
 		(uuid "ee2cbc25-7ac5-49fc-b64f-955db0cbeb49")
