@@ -3937,17 +3937,6 @@
 		)
 		(uuid "77b6c6ba-8ff8-4976-ac01-8ddf72fb0f14")
 	)
-	(label "ABC123"
-		(at 182.88 33.02 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "860c2ce1-c73a-4aa4-9bde-b3dd57c6d78d")
-	)
 	(label "D6"
 		(at 232.41 62.23 0)
 		(fields_autoplaced yes)
