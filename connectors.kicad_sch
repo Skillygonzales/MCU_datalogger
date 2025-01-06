@@ -950,7 +950,7 @@
 			)
 		)
 	)
-	(hierarchical_label "SCK"
+	(hierarchical_label "SCL"
 		(shape passive)
 		(at 97.79 77.47 0)
 		(fields_autoplaced yes)
