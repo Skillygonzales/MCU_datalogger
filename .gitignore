@@ -5,3 +5,4 @@ MCU Datalogger-backups/*
 *.lck
 ..gitignore.un~
 .gitignore~
+..gitattributes.un~
