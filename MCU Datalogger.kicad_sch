@@ -2787,6 +2787,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 39.37) (xy 265.43 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "360d2a76-9806-4451-9352-b08285e3f906")
+	)
+	(wire
+		(pts
 			(xy 114.3 143.51) (xy 114.3 147.32)
 		)
 		(stroke
@@ -2904,16 +2914,6 @@
 			(type default)
 		)
 		(uuid "4aad4c76-44d4-4b2a-bf35-dbd26cd5fede")
-	)
-	(wire
-		(pts
-			(xy 265.43 39.37) (xy 251.46 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c6264bf-2a0d-4a42-b689-04b8298eef9a")
 	)
 	(wire
 		(pts
@@ -3935,6 +3935,17 @@
 			(justify left bottom)
 		)
 		(uuid "71b5d41c-1f2b-4db7-9be9-76f2b0b3a6a0")
+	)
+	(label "Vcc"
+		(at 256.54 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "77b6c6ba-8ff8-4976-ac01-8ddf72fb0f14")
 	)
 	(label "SCK"
 		(at 176.53 133.35 180)
